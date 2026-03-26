@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://your-lab-website.example">🌐 Website</a> •
-  <a href="https://huggingface.co/your-org">🤗 Hugging Face</a> •
+  <a href="https://huggingface.co/iLearn-Lab">🤗 Hugging Face</a> •
   <a href="https://scholar.google.com/">📚 Publications</a> •
   <a href="mailto:your-email@example.com">✉ Contact</a>
 </p>
