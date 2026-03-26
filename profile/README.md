@@ -50,23 +50,6 @@ iLearn-Lab is an open research group focusing on:
 
 ---
 
-## Repository Types
-
-本组织中的公开仓库通常包括：
-
-- 论文项目代码仓库
-- 课程与研究项目仓库
-- 模型与数据发布仓库
-- Benchmark / Evaluation 工具仓库
-- 组织公共文档和模板仓库
-
----
-
-## For Students and Collaborators
-
-如果你是本组织成员，请切换到组织主页的 **Member view** 查看内部导航与操作文档。
-
----
 
 ## Contact
 
