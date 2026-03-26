@@ -1,58 +1,23 @@
-# iLearn-Lab
+<div align="center">
 
-<p align="center">
-  <strong>Open Research in AI, Multimodal Learning, and Intelligent Education</strong>
-</p>
+## Hi there 👋
 
-<p align="center">
-  面向多模态智能、教育智能、基础模型与应用研究的开放实验室
-</p>
+✨ Welcome to **iLearn-Lab**! ✨
 
-<p align="center">
-  <a href="https://your-lab-website.example">🌐 Website</a> •
-  <a href="https://huggingface.co/iLearn-Lab">🤗 Hugging Face</a> •
-  <a href="https://scholar.google.com/">📚 Publications</a> •
-  <a href="mailto:your-email@example.com">✉ Contact</a>
-</p>
+We are a research group dedicated to advancing the frontier of  
+**Intelligent Learning, Multimodal AI, Foundation Models, and Open Research**.
 
----
+<br>
 
-## About Us
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://your-lab-website.example)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-yellow)](https://huggingface.co/your-org)
+[![Publications](https://img.shields.io/badge/Publications-Read-green)](https://scholar.google.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)](https://github.com/iLearn-Lab)
+[![Contact](https://img.shields.io/badge/Contact-Email-red)](mailto:your-email@example.com)
+[![Projects](https://img.shields.io/badge/Projects-Explore-purple)](https://github.com/iLearn-Lab?tab=repositories)
 
-iLearn-Lab is an open research group focusing on:
+<br>
 
-- Multimodal Large Models
-- AI for Education
-- Vision-Language Learning
-- Agent Systems
-- Efficient Training and Evaluation
+<img src="./assets/banner.png" alt="iLearn-Lab Banner" width="95%">
 
-我们致力于构建高质量、可复现、可共享的研究项目，并持续发布代码、模型、数据和实验结果。
-
----
-
-## Research Areas
-
-- **Multimodal Foundation Models**
-- **Large Language Models**
-- **AI for Education**
-- **Agents and Reasoning**
-- **Efficient Training / Alignment / Evaluation**
-- **Open-source Research Infrastructure**
-
----
-
-## Featured Resources
-
-- 代表性论文与项目请查看组织主页的 **Pinned repositories**
-- 更多模型和数据请访问我们的 **Hugging Face**
-- 对外合作、访问交流、项目咨询请通过主页联系方式联系
-
----
-
-
-## Contact
-
-- Website: `https://your-lab-website.example`
-- Hugging Face: `https://huggingface.co/your-org`
-- Email: `your-email@example.com`
+</div>
