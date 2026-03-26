@@ -1,11 +1,9 @@
 <div align="center">
 
-## Hi there 👋
-
 ✨ Welcome to **iLearn-Lab**! ✨
 
 We are a research group dedicated to advancing the frontier of  
-**Intelligent Learning, Multimodal AI, Foundation Models, and Open Research**.
+**Multimedia Content Analysis, Multimodal Foundation Models, and Embodied AI**.
 
 <br>
 
@@ -17,7 +15,5 @@ We are a research group dedicated to advancing the frontier of
 [![Projects](https://img.shields.io/badge/Projects-Explore-purple)](https://github.com/iLearn-Lab?tab=repositories)
 
 <br>
-
-<img src="./assets/banner.png" alt="iLearn-Lab Banner" width="95%">
 
 </div>
