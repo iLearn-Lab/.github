@@ -1,9 +1,9 @@
 <div align="center">
 
-✨ Welcome to **iLearn @ HITSZ**! ✨
+✨ Welcome to **iLearn**! ✨
 
 We are a research group dedicated to advancing the frontier of  
-**Multimedia Content Analysis, Multimodal Foundation Models, and Embodied AI**.
+**Multimedia Search, Multimodal Foundation Models, and Embodied AI**.
 
 <br>
 
